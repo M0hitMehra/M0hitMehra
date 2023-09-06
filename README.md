@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Three.js**
 
-- 👯 I’m looking to collaborate on **Mern projects, Frontend/backen**
+- 👯 I’m looking to collaborate on **Mern projects, Frontend/backend**
 
 - 👨‍💻 All of my projects are available at [https://m0hitmehra.github.io/MohitPortfolio/](https://m0hitmehra.github.io/MohitPortfolio/)
 
